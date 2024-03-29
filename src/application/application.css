@@ -1,0 +1,33 @@
+#formContainer{
+	-fx-background-color: #e5e5e5;
+	-fx-padding: 40.0px;
+}
+#root{
+	  
+	   }
+#titleContainer{
+	 -fx-alignment: center;
+	 -fx-spacing: 5px
+	 }
+#title{
+	  -fx-font-size: 50px;
+	   -fx-font-weight: bold;
+}
+
+#title2{
+	  -fx-font-size: 14px;
+}
+#formContent{
+	 -fx-padding: 30px 0 20px 0;
+	 -fx-spacing: 5px;
+	 }
+#formContent TextField{
+	 -fx-padding: 10px;
+	 }
+#formContent PasswordField{
+	 -fx-padding: 10px;
+	 }
+#submit{
+	-fx-padding:10px 20px 10px 20px;
+}
+
